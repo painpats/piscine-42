@@ -1,6 +1,9 @@
 # C Pool - 42 Angouleme
 
-Welcome to the repository of my projects completed during the C pool at 42 Angoulême. This intensive program allowed me to discover and master the C programming language through a series of practical projects named "days".
+Here are the projects that I completed during the C pool of 42 Angoulême. This intensive program allowed me to discover and master the C programming language through a series of practical projects named "days".
+I had never coded in C before this pool and was able to advance in these projects and reach this final result thanks to the knowledge of mathematics that I had acquired during my previous studies, my curiosity, mutual help and my zeal.
+
+![Level bar](Assets/levelbar.png)
 
 
 ## Objectives of the Pool
@@ -11,18 +14,51 @@ The C pool aims to:
 - Encourage collaborative learning and autonomy.
 
 
-## Days Completed
+## Shell
 
-Here is a list of the days I completed during the pool:
+Those two days are focused on understanding how a shell operates. 
 
-### 1. Shell
-..
+### Shell00
+![Shell 00 results](Assets/shell00.png)
 
-### 2. C
-..
+### Shell01
+![Shell 01 results](Assets/shell01.png)
 
-### 3. Rush
-..
+## C
+...
+
+### C00
+![C 00 results](Assets/C00.png)
+
+### C01
+![C 01 results](Assets/C01.png)
+
+### C02
+![C 02 results](Assets/C02.png)
+
+### C03
+![C 03 results](Assets/C03.png)
+
+### C04
+![C 04 results](Assets/C04.png)
+
+### C05
+![C 05 results](Assets/C05.png)
+
+### C06
+![C 06 results](Assets/C06.png)
+
+## Rush
+... 
+
+### Rush00
+![Rush 00 results](Assets/rush00.png)
+
+## Rush01
+![Rush 01 results](Assets/rush01.png)
+
+## Rush02
+![Rush 02 results](Assets/rush02.png)
 
 
 ## Installation
