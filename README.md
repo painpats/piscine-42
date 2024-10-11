@@ -17,7 +17,7 @@ The C pool aims to:
 
 ## Shell
 
-Those two Days are focused on understanding how a Shell operates.
+Those two first Days are focused on understanding how a Shell operates.
 I would recommend you to spend maximum three days on these Days in order to understand the basis of Shell and quickly move on the C part.
 
 ### Shell00
