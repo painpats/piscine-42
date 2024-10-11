@@ -75,7 +75,7 @@ This Rush was hard, I had the lead of the team so I learned how to manage a grou
 ![Rush 01 results](Assets/rush01.png)
 
 ## Rush02
-This Rush was interesting. We had a good group that communicated well so we managed to go through the Rush despite the difficulty and the lack of knowledge.
+This Rush was interesting, I learned how to do and use a Makefile. We had a good group that communicated well so we managed to go through the Rush despite the difficulty and the lack of knowledge.
 
 ![Rush 02 results](Assets/rush02.png)
 
