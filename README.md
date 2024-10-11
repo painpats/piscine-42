@@ -69,12 +69,12 @@ This Rush was fun, it allowed me to better understand how the 'while' loops work
 
 ![Rush 00 results](Assets/rush00.png)
 
-## Rush01
+### Rush01
 This Rush was hard, I had the lead of the team so I learned how to manage a group. We couldn’t make a fully functional program so we decided to switch to hard code mode. Thanks to this rudimentary solution we managed to get a good 70%.
 
 ![Rush 01 results](Assets/rush01.png)
 
-## Rush02
+### Rush02
 This Rush was interesting, I learned how to do and use a Makefile. We had a good group that communicated well so we managed to go through the Rush despite the difficulty and the lack of knowledge.
 
 ![Rush 02 results](Assets/rush02.png)
